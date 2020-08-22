@@ -1,2 +1,2 @@
 # online-monitor
-checks internet connection
+Simple python script to monitor your internet connection. Every 10 minutes it tries to load the specified website. The result will be saved in a CSV-file (data.csv). If the website could not be loaded correctly it will be saved as an HTML-file in the error-folder.
